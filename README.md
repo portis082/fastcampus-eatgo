@@ -1,4 +1,4 @@
-# EatGo
+# EatGoasdasd
 
 [![Build Status](https://travis-ci.org/ahastudio/fastcampus-eatgo.svg?branch=master)](https://travis-ci.org/ahastudio/fastcampus-eatgo)
 
